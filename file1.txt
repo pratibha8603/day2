@@ -1,0 +1,1 @@
+This is the first file created on Git Bash in Day2 folder
